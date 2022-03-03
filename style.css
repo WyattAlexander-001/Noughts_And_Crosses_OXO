@@ -1,0 +1,18 @@
+body{
+    background-color: gold;
+}
+.row div {
+    padding: 10px;
+    border: 5px solid black;
+    height: 30px;
+    width: 30px;
+    float: left;
+}
+
+/* 
+* Makes it into a 3x3 grid 
+*  
+*/
+.row {
+    clear: both;
+}
